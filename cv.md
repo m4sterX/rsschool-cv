@@ -13,13 +13,15 @@ Summary - I graduated from IT Academy(Java,
           experience and knowledge. Looking
           for "unity in diversity"
 
-Skills - Java, Kotlin, Android Sdk
 
+Skills - Java, Kotlin, Android Sdk
 
 
 Education - School of Buisness of BSU (2019 - 2023)
             Bachelor’s degree in Information Resources
             Management(distance learning)
             
-            It Academy - Java Fundamintals(2019)
-            It Academy - Android development Application(2020)
+Courses - It Academy - Java Fundamintals(2019)
+          It Academy - Android development Application(2020)
+
+English - During the school i had a practice with a coach. Also i attended some group courses. 
