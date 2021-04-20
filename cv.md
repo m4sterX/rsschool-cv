@@ -1,6 +1,6 @@
 Nikita Turovets
 
-Contact info - +375(29)3119009, Telegram - @Nkttrvts
+Contact info - +375(29)3119009, Telegram - @Nkttrvts Github - m4sterX
 
 Summary - I graduated from IT Academy(Java,
           Android) in the top of the group,
